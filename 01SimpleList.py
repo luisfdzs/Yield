@@ -1,5 +1,3 @@
-#region
-
 """
   This function returns a list of the even values between the specified minimum and maximum
 
@@ -22,4 +20,12 @@ print(myList[1])
 print(myList[2])
 print(myList[3])
 
-#endregion
+"""
+  The output will be: 
+
+    [0, 2, 4, 6, 8]
+    2
+    4
+    6
+
+"""
