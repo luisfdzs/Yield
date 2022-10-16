@@ -21,6 +21,10 @@ print(myList[2])
 print(myList[3])
 
 """
+  When the function getEvenNumbers(min,max) is called, the for loop is executed from the beginning to the end
+  before the function returns. Because of this, we have the entire list of even numbers between 0 and 10 stored
+  in our variable 'myList'
+
   The output will be: 
 
     [0, 2, 4, 6, 8]
